@@ -12,20 +12,20 @@ Gordon Ramsay screaming at your auth function. Shakespeare writing sonnets about
 ### One-liner (recommended)
 
 ```bash
-git clone https://github.com/username/code-roast.git /tmp/code-roast && /tmp/code-roast/install.sh
+git clone https://github.com/yaltiok/code-roast.git /tmp/code-roast && /tmp/code-roast/install.sh
 ```
 
 ### As a Claude Code plugin
 
 ```
-/plugin marketplace add username/code-roast
+/plugin marketplace add yaltiok/code-roast
 /plugin install code-roast@username
 ```
 
 ### Manual
 
 ```bash
-git clone https://github.com/username/code-roast.git
+git clone https://github.com/yaltiok/code-roast.git
 cp code-roast/skill.md ~/.claude/skills/code-roast/SKILL.md
 cp -r code-roast/characters ~/.claude/skills/code-roast/
 ```
