@@ -1,0 +1,20 @@
+{
+  "name": "code-roast-marketplace",
+  "owner": {
+    "name": "yaltiok"
+  },
+  "plugins": [
+    {
+      "name": "code-roast",
+      "source": "./",
+      "description": "Roast your code with hilarious ASCII characters — Gordon Ramsay, Linus Torvalds, Shakespeare, and Gentle Grandma",
+      "version": "1.0.0",
+      "author": {
+        "name": "yaltiok"
+      },
+      "homepage": "https://github.com/yaltiok/code-roast",
+      "repository": "https://github.com/yaltiok/code-roast",
+      "license": "MIT"
+    }
+  ]
+}
